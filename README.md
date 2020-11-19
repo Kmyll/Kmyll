@@ -4,7 +4,7 @@ I am a front end developer with 2 years of experience in React. My tech stack in
 
 I enjoy learning new languages and technologies, including Swift and Python.
 
-###_My latest projects are:_
+### My latest projects are:
 
 🎄 - [Wishlist](https://github.com/Kmyll/wishlist-project) - (React Native) Codeworks solo project make in 6 days, for children to make their christmas wishlist and receive a personnalized reply from Santa?
 
@@ -13,7 +13,7 @@ I enjoy learning new languages and technologies, including Swift and Python.
 🗺 - [Restuary](https://github.com/Kmyll/restuarySave) - (React JS) App to find unseen places while travelling
 
 
-###_You can also find me on:_
+### You can also find me on:
 
 👩🏼‍💻 - [My portfolio](https://camilledsb.io)
 
