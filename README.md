@@ -4,10 +4,12 @@ I am a front end developer with 2 years of experience in React. My tech stack in
 
 I enjoy learning new languages and technologies, including Swift and Python.
 
-You can also find me:
+My latest projects are
 
-👩🏼‍💻 - https://camilledsb.io
-🗺 - https://www.linkedin.com/in/camille-desoubrie/
+You can also find me on:
+
+👩🏼‍💻 - [My portfolio](https://camilledsb.io)
+🗺 - [Linkedin](https://www.linkedin.com/in/camille-desoubrie/) 
 🏡 - camille.desoubrie@gmail.com
 
 <!--
