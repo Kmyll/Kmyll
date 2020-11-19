@@ -4,7 +4,14 @@ I am a front end developer with 2 years of experience in React. My tech stack in
 
 I enjoy learning new languages and technologies, including Swift and Python.
 
-My latest projects are
+My latest projects are:
+
+🎄 - [Wishlist](https://github.com/Kmyll/wishlist-project) - (React Native) Codeworks solo project make in 6 days, for children to make their christmas wishlist and receive a personnalized reply from Santa?
+
+🎓 - [PSH Alumni application](hhttps://github.com/Kmyll/psh-react) - (React JS) Alumni application to manage events and job offers
+
+🗺 - [Restuary](https://github.com/Kmyll/restuarySave) - (React JS) App to find unseen places while travelling
+
 
 You can also find me on:
 
@@ -13,6 +20,7 @@ You can also find me on:
 🗺 - [Linkedin](https://www.linkedin.com/in/camille-desoubrie/) 
 
 🏡 - camille.desoubrie@gmail.com
+
 <!--
 **Kmyll/Kmyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
