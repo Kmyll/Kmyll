@@ -9,9 +9,10 @@ My latest projects are
 You can also find me on:
 
 👩🏼‍💻 - [My portfolio](https://camilledsb.io)
-🗺 - [Linkedin](https://www.linkedin.com/in/camille-desoubrie/) 
-🏡 - camille.desoubrie@gmail.com
 
+🗺 - [Linkedin](https://www.linkedin.com/in/camille-desoubrie/) 
+
+🏡 - camille.desoubrie@gmail.com
 <!--
 **Kmyll/Kmyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
