@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I am Camille 👋
+
+I am a front end developer with 2 years of experience in React. My tech stack include React (js and Native), Redux, Vue, Angular, Java EE,Node.js, MongoDB, Koa and GraphQL.
+
+I enjoy learning new languages and technologies, including Swift and Python.
+
+You can also find me:
+
+👩🏼‍💻 - https://camilledsb.io
+🗺 - https://www.linkedin.com/in/camille-desoubrie/
+🏡 - camille.desoubrie@gmail.com
 
 <!--
 **Kmyll/Kmyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
