@@ -1,4 +1,5 @@
-## Hi, I am Camille 👋
+
+ <img src="https://s8.gifyu.com/images/Asset-6.png"/>
 
 I am a front end developer with 2 years of experience in React. My tech stack include React (js and Native), Redux, Vue, Angular, Java EE,Node.js, MongoDB, Koa and GraphQL.
 
