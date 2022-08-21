@@ -7,7 +7,7 @@ I enjoy learning new languages and technologies, including Swift and Python.
 
 ### My latest projects are:
 
-🎄 - [Wishlist](https://github.com/Kmyll/wishlist-project) - (React Native) Codeworks solo project make in 6 days, for children to make their christmas wishlist and receive a personnalized reply from Santa?
+🎄 - [Wishlist](https://github.com/Kmyll/wishlist-project) - (React Native) Codeworks solo project make in 6 days, for children to make their christmas wishlist and receive a personnalized reply from Santa
 
 🎓 - [PSH Alumni application](https://github.com/Kmyll/psh-react) - (React JS) Alumni application to manage events and job offers
 
