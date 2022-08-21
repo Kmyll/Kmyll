@@ -1,7 +1,7 @@
 
  <img src="https://i.postimg.cc/rynqZKRm/Asset-1-3.png"/>
 
-I am a front end developer with 2 years of experience in React. My tech stack include React (js and Native), Redux, Vue, Angular, Java EE,Node.js, MongoDB, Koa and GraphQL.
+I am a Front-End developer with 4 years of experience in development, with a focus on ReactJs. My tech stack include React (js and Native), Redux, JavaScript, CSS, Scss and NodeJs with a basic knowledge in other libraries such as Vue, Angular, Java EE, PHP, MongoDB, Koa, GraphQL and Jest.
 
 I enjoy learning new languages and technologies, including Swift and Python.
 
