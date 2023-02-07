@@ -5,13 +5,21 @@ I am a Front-End developer with 4 years of experience in development, with a foc
 
 I enjoy learning new languages and technologies, including Swift and Python.
 
+### I'm currently working as a Front-end developer.
+
+• See all my projects - [camilledsb.io](https://camilledsb.io)
+
+• Download my CV - [resume](https://camilledsb.io/static/media/CV_camille_desoubrie.334a4b500a3aecf9d4df.pdf)
+
+
+
 ### My latest projects are:
 
-🎄 - [Wishlist](https://github.com/Kmyll/wishlist-project) - (React Native) Codeworks solo project make in 6 days, for children to make their christmas wishlist and receive a personnalized reply from Santa
+🎓 - [PSH Alumni application](https://github.com/Kmyll/psh-react) - (React JS) Alumni application to manage events and job offers with authentication and a admin access to manage users, create update and delete job offers and events.
 
-🎓 - [PSH Alumni application](https://github.com/Kmyll/psh-react) - (React JS) Alumni application to manage events and job offers
+🎄 - Wishlist - (React Native) Codeworks solo project make in 6 days (and still working on it to improve it), for children to make their christmas wishlist and receive a personnalized reply from Santa
 
-🗺 - [Restuary](https://github.com/Kmyll/restuarySave) - (React JS) App to find unseen places while travelling
+🗺 - Restuary - (React JS and React Native) App to find unseen places while travelling both desktop and mobile (Still working on it to improve it)
 
 
 ### You can also find me on:
@@ -20,7 +28,9 @@ I enjoy learning new languages and technologies, including Swift and Python.
 
 📚- [Linkedin](https://www.linkedin.com/in/camille-desoubrie/) 
 
-🏡 - camille.desoubrie@gmail.com
+🏡 - [Email](mailto:camille.desoubrie@gmail.com)
+
+
 
 <!--
 **Kmyll/Kmyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
