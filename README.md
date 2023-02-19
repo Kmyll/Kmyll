@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Wishlist**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning [**TypeScript**](https://github.com/Kmyll/typescript-project)
 
-- 👨‍💻 All of my projects are available at [https://camilledsb.io](https://camilledsb.io)
+- 👨‍💻 Most of my projects are available at [https://camilledsb.io](https://camilledsb.io)
 
 - 💬 Ask me about **React and React-Native**
 
